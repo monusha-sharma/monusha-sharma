@@ -30,15 +30,6 @@ I'm continuously expanding my toolkit to become a versatile data analyst. Here a
 
 ---
 
-## 📊 GitHub Stats:
-I love showcasing my progress and the projects I’m working on. Here’s a snapshot of my GitHub activity:
-
-![](https://github-readme-stats.vercel.app/api?username=monusha-sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=monusha-sharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monusha-sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🚀 Current Projects:
 I’m currently working on data analysis projects that tackle real-world challenges and allow me to apply what I’m learning. Check out my repositories to see my progress and contributions.
 
